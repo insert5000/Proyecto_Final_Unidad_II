@@ -1,0 +1,20 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introduccion}{1}%
+\contentsline {section}{\numberline {2}Titulo}{1}%
+\contentsline {section}{\numberline {3}Autores}{1}%
+\contentsline {section}{\numberline {4}Planteamiento del problema}{1}%
+\contentsline {subsection}{\numberline {4.1}Problema}{1}%
+\contentsline {subsection}{\numberline {4.2}Justificacion}{1}%
+\contentsline {subsection}{\numberline {4.3}Alcance}{1}%
+\contentsline {section}{\numberline {5}Objetivos}{1}%
+\contentsline {subsection}{\numberline {5.1}General}{1}%
+\contentsline {subsection}{\numberline {5.2}Especifico}{1}%
+\contentsline {section}{\numberline {6}Referencias Teoricas}{2}%
+\contentsline {section}{\numberline {7}Desarrollo de la prueba}{2}%
+\contentsline {subsection}{\numberline {7.1}Tecnologia de informacion}{2}%
+\contentsline {subsection}{\numberline {7.2}Metodolog\'ia, tecnicas usadas}{3}%
+\contentsline {section}{\numberline {8}Cronograma}{10}%
+\contentsline {section}{\numberline {9} Desarrollo de Solución de Mejora}{11}%
+\contentsline {subsection}{\numberline {9.1}Diagrama de Arquitectura de la aplicación}{11}%
+\contentsline {subsection}{\numberline {9.2}Diagrama de Clases de la aplicación}{12}%
+\contentsline {subsection}{\numberline {9.3}Metodos de pruebas implementados para coberturar la aplicación}{13}%
